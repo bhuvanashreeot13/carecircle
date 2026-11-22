@@ -21,5 +21,5 @@ React (Vite), Tailwind CSS, Supabase (PostgreSQL + Auth), GitHub, Vercel.
 5. Run `npm run dev`
 
 ## Demo accounts
-- Admin: (add email and password here)
-- Member: (add email and password here)
+- Admin: (bhuvanashreeot13@gmail.com and Bhuvana110908)
+- Member: (justvanaot13@gmail.com and Bhuvana110908)
